@@ -3,7 +3,7 @@ package io.oasp.bce.java.general.common.base;
 import io.oasp.bce.java.general.common.api.Property;
 import io.oasp.bce.java.general.common.impl.PropertyImpl; // base should not depend on impl
 
-//use qualified name instead of import statement for JavaDoc only references
+// use qualified name instead of import statement for JavaDoc only references
 /**
  * Abstract base implementation of {@link Property}.
  *
@@ -29,5 +29,4 @@ public abstract class AbstractProperty<V> implements Property<V> {
 
     return this.name;
   }
-
 }
