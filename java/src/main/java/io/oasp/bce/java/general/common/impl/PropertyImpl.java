@@ -3,9 +3,7 @@ package io.oasp.bce.java.general.common.impl;
 import io.oasp.bce.java.general.common.api.Property;
 import io.oasp.bce.java.general.common.base.AbstractProperty;
 
-/**
- * Implementation of {@link Property}.
- */
+/** Implementation of {@link Property}. */
 public class PropertyImpl<V> extends AbstractProperty<V> {
 
   private V value;

@@ -1,9 +1,8 @@
 package io.oasp.bce.java.general.common.invalidScope;
 
-//the code must follow the devon package conventions provide  a valid OASP package.
+// the code must follow the devon package conventions provide  a valid OASP package.
 /**
  * @author ssabah
- *
  */
 public class ChangeToValidScope {
 
@@ -14,5 +13,4 @@ public class ChangeToValidScope {
     // TODO Auto-generated method stub
 
   }
-
 }
